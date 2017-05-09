@@ -25,10 +25,10 @@
     
 </module>
 
-<module codenamebase="dk.sdu.mmmi.cbse.Common" distribution="https://github.com/dausi15/TestRep/blob/master/netbeans_site/Common-1.0-SNAPSHOT.nbm?raw=true" downloadsize="10776" license="AF77BD25" needsrestart="false" releasedate="2017/05/02" targetcluster="nbruntimeexample">
-    <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Common" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20170502" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.26.1" OpenIDE-Module-Name="Common" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>
+<!-- <module codenamebase="dk.sdu.mmmi.cbse.Common" distribution="https://github.com/dausi15/TestRep/blob/master/netbeans_site/Common-1.0-SNAPSHOT.nbm?raw=true" downloadsize="10776" license="AF77BD25" needsrestart="false" releasedate="2017/05/02" targetcluster="nbruntimeexample"> -->
+    <!-- <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Common" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20170502" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.26.1" OpenIDE-Module-Name="Common" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/> -->
     
-</module>
+<!-- </module> -->
 
 <module autoload="true" codenamebase="org.netbeans.api.annotations.common" distribution="org-netbeans-api-annotations-common-RELEASE81.nbm" downloadsize="81764" homepage="http://www.netbeans.org/" license="14E6055" moduleauthor="" needsrestart="false" releasedate="2015/10/22" targetcluster="platform">
     <manifest AutoUpdate-Show-In-Client="false" OpenIDE-Module="org.netbeans.api.annotations.common/1" OpenIDE-Module-Implementation-Version="201510222201" OpenIDE-Module-Java-Dependencies="Java &gt; 1.6" OpenIDE-Module-Long-Description="Contains annotations useful for static analysis, such as a @SuppressWarnings usable by FindBugs." OpenIDE-Module-Name="Common Annotations" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Common annotations, namely for defect detection." OpenIDE-Module-Specification-Version="1.26.1"/>
