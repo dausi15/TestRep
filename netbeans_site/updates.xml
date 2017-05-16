@@ -165,10 +165,10 @@
     
 </module>
 
-<!-- <module codenamebase="gruppe5.Weapon" distribution="Weapon-1.0.0-SNAPSHOT.nbm" downloadsize="77577" license="AF77BD25" needsrestart="false" releasedate="2017/05/16" targetcluster="labyrinthshooter">
+<module codenamebase="gruppe5.Weapon" distribution="Weapon-1.0.0-SNAPSHOT.nbm" downloadsize="77577" license="AF77BD25" needsrestart="false" releasedate="2017/05/16" targetcluster="labyrinthshooter">
     <manifest OpenIDE-Module="gruppe5.Weapon" OpenIDE-Module-Display-Category="gruppe5" OpenIDE-Module-Implementation-Version="1.0.0-20170516" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, gruppe5.Common &gt; 1.0.0, gruppe5.CommonBullet &gt; 1.0.0, org.openide.util.lookup &gt; 8.33.1, gruppe5.CommonMap &gt; 1.0.0, gruppe5.CommonAudio &gt; 1.0.0, gruppe5.CommonWeapon &gt; 1.0.0" OpenIDE-Module-Name="Weapon" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0.0"/>
     
-</module> -->
+</module>
 
 <license name="AF77BD25">Copyright  2017
 -----------------------------------------------------
